@@ -1,0 +1,15 @@
+.logOutButton {
+    height: 37px;
+    margin-top: 17px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+    background-image: url(../../img/Background.jpg);
+    color: cornsilk;
+    font-weight:bolder;
+    background-color: rgb(250, 235, 215);
+    border-radius: 20px;
+    box-shadow: inset 1px 1px 2px 1px antiquewhite,
+			0 0 0 0px antiquewhite,
+			3px -3px 30px #975b97, 
+			-3px 3px 30px #643b77;
+}

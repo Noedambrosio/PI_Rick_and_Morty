@@ -1,0 +1,35 @@
+.closeButtonContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items:flex-start;
+    width: fit-content;
+    height: 50px;
+}
+.closeButton {
+    flex-grow: 1;
+    object-fit:fill;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background: #a50c0c;
+    border: none;
+    border-radius: 5px;
+    width:fit-content ;
+   }
+      
+   .closeButton .text {
+    color: white;
+    font-weight: bold;
+   }
+   
+   .closeButton .icon {
+    position: absolute;
+    transform: translateX(17px);
+    height: 15px;
+    width: 0px;
+    display: flex;
+    align-items: center;
+   }
+
+   
