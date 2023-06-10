@@ -1,0 +1,19 @@
+.cardsContainer {
+    margin-top: auto;
+    margin-bottom: 20px;
+    display: flex;
+    /*flex: 1 0 auto;*/
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    align-content: space-around;
+    
+}
+
+/*.carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll;
+
+}
+*/
